@@ -1,0 +1,7 @@
+1. How many directories are there in the root directory. Subtract this number by 2.
+
+2. In the "images" directory, find the image file that includes the letter "q" in its filename and open it.
+
+3. What is "M" upside down. What is the (lowercase) seventh letter of the alphabet. (Case sensitive)
+
+Put your solutions into "/solution/2.txt".
