@@ -1,0 +1,10 @@
+In the "random/" directory,
+
+Remove all files whose name has:
+- all non-text files (.jpg, .gif)
+- prefix "sub" (ex. subway.txt, submarine.txt)
+
+For all remaining text files:
+1. get their contents
+2. put it into a text file called "1.txt"
+3. put "1.txt" into the "/solution/"
