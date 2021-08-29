@@ -1,0 +1,4 @@
+I put the third clue in "./3.txt", committed and push it onto Github.
+Then, I deleted it.
+
+What can we do to get it back and put it into "/solution/"?
