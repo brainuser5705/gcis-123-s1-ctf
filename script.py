@@ -3,7 +3,7 @@ import webbrowser
 link = 'https://www.youtube.com/watch?v='
 
 for i in range(1,4):
-    filename = "../solution/" + str(i) + ".txt"
+    filename = "solution/" + str(i) + ".txt"
     try:
         link += open(filename).read()
     except FileNotFoundError:
